@@ -9,7 +9,7 @@
   --bd-blue: var(--accent-solid);
   --bd-blue-hover: var(--accent-solid);
   --noasw-padding: calc(var(--toolbar-height) + (var(--server-icon-size) - var(--server-icon-size)));
-  --noasw-base: var(--container, 72px);
+  --noasw-base: 32px;
   --noasw-channel-header: 32px;
   --spacing-third: calc(var(--spacing) / 3);
   --spacing-half: calc(var(--spacing) / 2);
